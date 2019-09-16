@@ -7,8 +7,8 @@ $itemPrice = 25;
 $currency = "USD"; 
  
 // Stripe API configuration  
-define('STRIPE_API_KEY', 'sk_test_5V2pPnkzslUYydbYVMmw6G1y00lau4eoXT'); 
-define('STRIPE_PUBLISHABLE_KEY', 'pk_test_lssROXvCMLpxRfBh6k4xgiLr00jHrnnDUH'); 
+define('STRIPE_API_KEY', ''); 
+define('STRIPE_PUBLISHABLE_KEY', ''); 
   
 // Database configuration  
 define('DB_HOST', 'localhost'); 
